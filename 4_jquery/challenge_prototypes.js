@@ -67,3 +67,5 @@ function Character(name, health) {
   princess.printStats();
   enemy.printStats();
   // Perform attacks, level up, etc.
+
+  console.log(`Moral of the story: Don't anger ${player.name} if you value your life.`);
